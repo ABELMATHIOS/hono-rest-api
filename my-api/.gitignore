@@ -1,6 +1,4 @@
 # deps
 node_modules
-.env
-dist
 app.db
 drizzle
